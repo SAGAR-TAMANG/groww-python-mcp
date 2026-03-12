@@ -136,13 +136,11 @@ Add the following (replace the path with the actual path to your project folder)
 {
   "mcpServers": {
     "groww_mcp": {
-      "command": "uv",
+      "command": "npx",
       "args": [
-        "--directory",
-        "C:/Users/YourName/Documents/groww-python-mcp",
-        "run",
-        "python",
-        "main.py"
+        "-y",
+        "mcp-remote",
+        "http://127.0.0.1:8000/sse"
       ]
     }
   }
