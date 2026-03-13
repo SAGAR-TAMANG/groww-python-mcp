@@ -51,6 +51,14 @@ Once connected, Claude gains access to **18 tools** across your entire Groww acc
 
 ---
 
+## 📺 Video Tutorial
+
+[![Watch the tutorial](https://img.youtube.com/vi/yP8SYCwUOMM/0.jpg)](https://www.youtube.com/watch?v=yP8SYCwUOMM)
+
+*Click the image above to watch the setup guide.*
+
+---
+
 ## 🛠️ Setup Guide
 
 > **Time needed:** ~10 minutes. No prior coding experience required.
