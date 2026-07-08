@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sagar-tamang-groww-python-mcp-badge.png)](https://mseep.ai/app/sagar-tamang-groww-python-mcp)
+
 # 🚀 Groww MCP Server (Python)
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
